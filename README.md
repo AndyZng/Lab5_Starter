@@ -6,5 +6,7 @@ Name: Andy Zhang
 2. Yes, this is small scale debugging that doesn't have many moving parts.
 
 links:
-[expose] https://andyzng.github.io/Lab5_Starter/expose.html
-[explore] https://andyzng.github.io/Lab5_Starter/explore.html
+
+[expose](https://andyzng.github.io/Lab5_Starter/expose.html)
+
+[explore](https://andyzng.github.io/Lab5_Starter/explore.html)
